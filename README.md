@@ -1,7 +1,8 @@
 # Global-Data-Science-Jobs-Analysis
 Project Description: Global Data Science Jobs Analysis
 
-### Project Description: Global Data Science Jobs Analysis
+
+This detailed project description outlines the scope, methodology, findings, and potential applications of the analysis, providing a clear understanding of the insights derived from the dataset.
 
 - **Project Overview**:
   - Analyzed a comprehensive dataset of data science job roles across the globe, sourced from Kaggle.
@@ -76,4 +77,4 @@ Project Description: Global Data Science Jobs Analysis
   - Informing academic programs and training initiatives to align with market demand.
   - Supporting policymakers in developing strategies to foster growth in the data science industry.
 
-This detailed project description outlines the scope, methodology, findings, and potential applications of the analysis, providing a clear understanding of the insights derived from the dataset.
+
